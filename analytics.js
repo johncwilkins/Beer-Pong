@@ -1,7 +1,7 @@
 /* Set this to your public GoatCounter site address to enable tracking.
    Example: https://your-site.goatcounter.com
    This is a public site address, never an API key. Leave empty to disable. */
-const GOATCOUNTER_SITE = '';
+const GOATCOUNTER_SITE = 'https://beerpong.goatcounter.com';
 
 (() => {
   'use strict';
